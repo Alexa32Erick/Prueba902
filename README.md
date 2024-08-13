@@ -14,3 +14,7 @@ _Bold_
 [Click here](htttp://github.com)
 
 Repositorio remoto privado para la app web
+
+``` python
+console.log("HolaMundo");
+```
